@@ -81,13 +81,13 @@ Ketik `sudo apt-get install git`
 test
 
 | Kolom pertama | kolom kedua | kolom ketiga |
-| -------------: | :-----------: | :------------ |
-| lorem ipsum   | dolor       | sit amet     |
-| lorem ipsum   | dolor       | sit amet     |
-| lorem ipsum   | dolor       | sit amet     |
-
-
-
+| ------------: | :---------: | :----------- |
+|   lorem ipsum |    dolor    | sit amet     |
+|   lorem ipsum |    dolor    | sit amet     |
+|   lorem ipsum |    dolor    | sit amet     |
+|   lorem ipsum |    dolor    | sit amet     |
+fbhbh
+dbcjbdj
 
 Quote
 <marquee>
